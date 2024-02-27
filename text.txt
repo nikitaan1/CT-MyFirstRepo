@@ -1,1 +1,1 @@
-This is my new repo text file
+Hello, this is my new text.txt file
